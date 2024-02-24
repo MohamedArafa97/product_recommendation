@@ -17,7 +17,7 @@ This project focuses on building a recommendation system for a clothing and fash
 - **03.Model_Building_Bertmodel.ipynb**: Implementation of the recommendation system using the BERT model.
 - **01.EDA.ipynb**: Code for exploratory data analysis.
 
-## Images
+## Figures
 
 - Various images generated during EDA for better visualization and understanding.
 
